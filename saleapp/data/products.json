@@ -1,0 +1,57 @@
+[{
+  "id": 1,
+  "name": "Mobile1",
+  "description": "SamSung, 64GB, RAM: 4G",
+  "price": 20000000,
+  "image": "image/1.jpg",
+  "category_id": 1
+},{
+  "id": 2,
+  "name": "Tablet1",
+  "description": "Apple, 128GB, RAM: 6G",
+  "price": 42000000,
+  "image": "image/2.jpg",
+  "category_id": 2
+},{
+  "id": 3,
+  "name": "LapTop1",
+  "description": "Acer, 128GB, RAM: 8G",
+  "price": 32000000,
+  "image": "image/3.jpg",
+  "category_id": 3
+},{
+  "id": 4,
+  "name": "Mobile2",
+  "description": "SamSung, 64GB, RAM: 4G",
+  "price": 20000000,
+  "image": "image/1.jpg",
+  "category_id": 1
+},{
+  "id": 5,
+  "name": "Tablet2",
+  "description": "Apple, 128GB, RAM: 6G",
+  "price": 42000000,
+  "image": "image/2.jpg",
+  "category_id": 2
+},{
+  "id": 6,
+  "name": "LapTop2",
+  "description": "Acer, 128GB, RAM: 8G",
+  "price": 32000000,
+  "image": "image/3.jpg",
+  "category_id": 3
+},{
+  "id": 7,
+  "name": "Mobile3",
+  "description": "SamSung, 64GB, RAM: 4G",
+  "price": 20000000,
+  "image": "image/1.jpg",
+  "category_id": 1
+},{
+  "id": 8,
+  "name": "Tablet3",
+  "description": "Apple, 128GB, RAM: 6G",
+  "price": 42000000,
+  "image": "image/2.jpg",
+  "category_id": 2
+}]
